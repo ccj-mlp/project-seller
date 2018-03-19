@@ -1,7 +1,6 @@
 # 商业页面展示
  ![image](https://github.com/ccj-mlp/project-seller/blob/master/README/01.png)
   ![image](https://github.com/ccj-mlp/project-seller/blob/master/README/02.png)
-   ![image](https://github.com/ccj-mlp/project-seller/blob/master/README/02.png)
     ![image](https://github.com/ccj-mlp/project-seller/blob/master/README/03.png)
      ![image](https://github.com/ccj-mlp/project-seller/blob/master/README/04.png)
       ![image](https://github.com/ccj-mlp/project-seller/blob/master/README/05.png)
